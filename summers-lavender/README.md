@@ -10,6 +10,6 @@ Item No: **844065**
 
 Price: **EURO 9.95** for 1 pair
 
-Size: **40-46**
+Size: **EU 41-46**
 
 Color: **Lavender**
