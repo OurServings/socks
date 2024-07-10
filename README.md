@@ -3,4 +3,4 @@ Socks
 
 | Color | URL |
 | -- | -- |
-| Summers Pink | [Summers Pink](./summers-pink/README.md) |
+| Summer's Pink | [Summer's Pink](./summers-pink/README.md) |
