@@ -6,7 +6,7 @@ Item: [Organic Active Sock (Polar Blue)](https://www.hhv.de/shop/en/clothing/ite
 
 Images: 
 | -- |
-|  |
+| ![1-colorful-standard-organic-active-sock-polar-blue](https://github.com/OurServings/socks/assets/1499433/8dd01849-12ce-4e22-8b00-4b2a2f49a486) |
 
 Item No: **1058748**
 
