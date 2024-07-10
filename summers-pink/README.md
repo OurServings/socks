@@ -8,7 +8,8 @@ Item: [Organic Active Sock (Faded Pink)](https://www.hhv.de/shop/en/clothing/ite
 
 Images: 
 | -- |
-|   |
+| ![2-colorful-standard-organic-active-sock-faded-pink](https://github.com/OurServings/socks/assets/1499433/789f109a-14d4-4fae-88c2-9e4e6b0315c2) |
+|  |
 
 Item No: **982764**
 
