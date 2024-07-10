@@ -1,5 +1,27 @@
 # Summer's Pink
 
+## First Choice
+
+Supplier: **[HHV](https://www.hhv.de)**
+
+Item: [Organic Active Sock (Faded Pink)](https://www.hhv.de/shop/en/clothing/item/colorful-standard-organic-active-sock-faded-pink-982764)
+
+Images: 
+| -- |
+|   |
+
+Item No: **982764**
+
+Price: **EURO 11.95** for 1 pair
+
+Size: **EU 41-46**
+
+Color: **Pink**
+
+___
+
+## Second Choice
+
 Supplier: **[Bonnie Doon](https://bonniedoon.com)**
 
 Item: [Cotton sock set 2 paar Pink](https://www.bonniedoon.com/cotton-sock-set-2-paar-pink/ol6324012.316.110)
