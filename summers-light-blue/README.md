@@ -1,8 +1,9 @@
 # Summer's Light Blue
 
-Supplier: **[HHV](https://www.hhv.de)**
-
-Item: [Organic Active Sock (Polar Blue)](https://www.hhv.de/shop/en/clothing/item/colorful-standard-organic-active-sock-polar-blue-1058748)
+| Suppliers | Items |
+| --- | --- |
+| [HHV](https://www.hhv.de) | [Organic Active Sock (Polar Blue)](https://www.hhv.de/shop/en/clothing/item/colorful-standard-organic-active-sock-polar-blue-1058748)  |
+| []() | [Organic Active Sock (Polar Blue)](https://colorfulstandard.com/en-nl/products/organic-active-sock-organic-active-sock-polar-blue-male?variant=47057734762821) |
 
 Images: 
 | -- |
