@@ -6,8 +6,7 @@ Item: [Colorful Standard Merino Wool Blend Sock (Oxblood Red)](https://www.hhv.d
 
 Images: 
 | -- |
-| ![1-colorful-standard-classic-organic-sock-soft-lavender](https://github.com/OurServings/socks/assets/1499433/873a3683-3d1b-4f6b-a85b-6697f33fcf42) |
-| ![2-colorful-standard-classic-organic-sock-soft-lavender](https://github.com/OurServings/socks/assets/1499433/21b0e688-2cea-4e89-a088-e110613714b7) |
+| ![3-colorful-standard-merino-wool-blend-sock-oxblood-red](https://github.com/user-attachments/assets/bc559a04-37a0-43dc-8dd4-a86ece20bee7)) |
 
 Item No: **844070**
 
