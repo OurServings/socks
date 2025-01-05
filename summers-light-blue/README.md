@@ -33,17 +33,17 @@ To get the most out of your Colorful Standard products, we advise taking proper 
 
 For 100% Organic Cotton products:
 
-• Organic Cotton items should not be washed in heat more than 40 degrees celsius
-• Organic cotton items should be washed with similar colors 
-• Avoid dry cleaning for organic cotton items 
-• Iron organic cotton items on medium heat
-• Do not bleach organic cotton items
-• Do not dry directly in the sun
+- Organic Cotton items should not be washed in heat more than 40 degrees celsius
+- Organic cotton items should be washed with similar colors 
+- Avoid dry cleaning for organic cotton items 
+- Iron organic cotton items on medium heat
+- Do not bleach organic cotton items
+- Do not dry directly in the sun
 
 For 100% Recycled Extra-Fine Merino Wool products: 
 
-• Wool items should be hand washed or dry cleaned
-• Do not tumble dry wool items 
-• If you wish to iron wool items, the iron must be set to the appropriate wool setting
-• Do not bleach wool items
-• Do not dry directly in the sun
+- Wool items should be hand washed or dry cleaned
+- Do not tumble dry wool items 
+- If you wish to iron wool items, the iron must be set to the appropriate wool setting
+- Do not bleach wool items
+- Do not dry directly in the sun
